@@ -3,6 +3,8 @@ Production Function Estimation Based On The Control Function Approach Use Packag
 
 Production Function Estimation Use Package prodest With (In) R Software
 
+https://www.youtube.com/watch?v=2YU3NznZXik
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
